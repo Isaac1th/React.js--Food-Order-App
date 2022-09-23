@@ -14,7 +14,7 @@
 
 .button:hover,
 .button:active {
-  background-color: #2c0d00;
+  background-color: #002c11;
 }
 
 .icon {
@@ -33,7 +33,7 @@
 
 .button:hover .badge,
 .button:active .badge {
-  background-color: #92320c;
+  background-color: #858b54;
 }
 
 .bump {
